@@ -8,7 +8,7 @@
   "server": {
     "ip": "HIBROCOMtm.aternos.me",
     "port":  32193,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
